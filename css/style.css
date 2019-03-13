@@ -2,6 +2,10 @@
     max-width:  100%;
     height: auto;
 }
+#img-div{
+  width: 500px;
+  margin: 0 auto;
+}
 img{
-    display: block;
+    display: block;    
 }
